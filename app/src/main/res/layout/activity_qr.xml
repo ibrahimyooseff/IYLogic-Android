@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Activity.QRActivity"
+    android:background="@drawable/drawable_background"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/qrsignin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/qrsignin"
+        android:textColor="@color/colorText"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:layout_marginTop="50dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="150dp">
+
+
+        <TextView
+            android:id="@+id/txv_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="20dp"
+            android:text="@string/email"
+            android:textColor="@color/colorText"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edt_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:ems="10"
+            android:textColor="@color/colorBlack"
+            android:lines="1"
+            android:background="@null"/>
+        <View
+            android:id="@+id/UnderLine1"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/editText1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="2dp"
+            android:background="@color/colorText"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_signin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:text="@string/signin"
+            android:textSize="20sp"
+            android:background="@drawable/button_border_radius"
+            android:textColor="@color/colorWhite"
+            android:layout_marginTop="30dp"/>
+        <TextView
+            android:id="@+id/txv_back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:textColor="@color/colorText"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Do you  have an account?"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

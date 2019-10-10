@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/waterleve"
+        android:title="Water Level"
+        android:icon="@drawable/drawable_waterlevel" />
+
+
+    <item
+        android:id="@+id/weather"
+        android:title="Weather"
+        android:icon="@drawable/weather" />
+
+
+    <item
+        android:id="@+id/leafwitness"
+        android:title="Leaf Witness"
+        android:icon="@drawable/drawable_witness"/>
+
+
+    <item
+        android:id="@+id/locationzones"
+        android:title="Locatin Zones"
+        android:icon="@drawable/drawable_location"/>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log out"
+        android:icon="@drawable/logout"/>
+
+
+</group>
+</menu>

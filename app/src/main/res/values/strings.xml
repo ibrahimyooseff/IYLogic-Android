@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Iylogic</string>
+    <string name="signin">SIGN IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="withqr">With QR Code</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="account">Don\'t have an account SIGN UP</string>
+    <string name="signup">SIGN UP</string>
+    <string name="username">User Name</string>
+    <string name="confrime">Confirm Password</string>
+    <string name="haveaccount">Do you have an account? SIGN IN</string>
+    <string name="forgot">FORGOT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">Back</string>
+    <string name="qrsignin">QR SIGN IN</string>
+    <string name="doyouhave">Do you have an account? SIGN IN</string>
+    <string name="menu">...</string>
+    <string name="nutrition">Superfood Protein of the Ground-Based Nutrition is made with natural whole-food organic ingredients.It is certified organic, Non-GMO Project Verified, certified vegan and gluten-free.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cropscontents">The major crops in India can be divided into four categories viz Food grains\(Rice, Wheat,Maize,Millets and Pules),Cash Crops\(Cotton,Jute,Sugarcane,Tobacco,and Oilseeds),
+Plantation Crops\(Tea,Coffee, Coconut and,Rubber)and Horticulture crops such as Fruites and Vegetables
+    Kharif crops\:
+    The Kharif crop is the summer crop or monsoon crop in India.Kharif crops are usually sown with the
+    begining of the first rains in July,during the south-west monsoon season.Major Kharif crops of India include Millets,Cotton,Soyabean, Sugarcane,Turmeric,Paddy,Groundnut,Red Chillies , etc.
+    Rabo Crops\: The Rabi crop is the spring harvest or winter crop in India.It is sown in October last and harvested in March April every year.Major Rabi crops in India include Wheat , Barley, Mustard,Sesame,Peas etc.\n
+
+        ...</string>
+    <string name="irrigation">Irrigation in India includes a network of major and minor canals from Indian rivers, groundwater well based systems, tanks and other rainwater harvesting projects for agricultural activities.\n
+    Of the these groundwater system is the largest In 2013-14,only about 47.7% of total agricultural land in India was reliably irrigated.\n
+    The largest canal in India is Indira Gandhi Canal, which is about 650km long. About the 2/3rd cultivated land in India is dependent on monsoons.Irrigation in India helps improve food security, reduce dependence on monsoons, improve agricultural productivity and create rural job opportunities.\n
+    Dams used for  irrigationprojects help produce electricity and transport facilitie, as well as provide drinking water supplies to a growing population,control floods and prevent droughts.\n
+    ...</string>
+    <string name="soils">Soil Horizon is classified into three categories\:\nHorizon A is the  topmost zone , where organic
+    materials stoed with the minerals, nutrients, and water, necessary for the growth of the plants.\n
+    Horizon B is the transition zone between the horizon A and horizon C, and hence, it contains matter derived from
+        horizon A as well as from horizon C.\n
+    Horizon C is composed of loose parent material and hence \, it is the layer of first stage of the soil formation process
+    and eventually forms the above discussed two layers.\nSoils were classified on the basis of their
+    inherent characteristics and external features including texture, color, slope of land, and moisture content in the soil.
+    \n Soil Survey of India , established in 1956, made comprehensive study of soils.There are many kinds of soils....</string>
+    <string name="leafwitness">Prices at Kochi Tea acutions continue to witness an upward trend, with good liquoring teeas in dust category was dearer by
+    ₹3 to ₹5.With improved arrivals, the quantity on offer in CTC was 11,07,000kg.Leading blenders were active on good liquoring varieties
+    following quality, while loose tea traders operated with better strength after a short spam. However there was a subdued demand from
+    upcountry buyers in sale no 47.The orthodox varieties also witness a good demand and the quantity on offer was 18,500kg.
+    Well-made primary grades remained steady, the auctioneers Forbes, Ewart and Figgis said.
+    In dust grades, both Myura SFD and Surianalle SFD quoted the best prices of 148INR each while in leaf varieties, Chamraj FOP - sup Green
+     tea fetched the best prices of 323INR....</string>
+    <string name="location">Compute Engine resources are hosted in multiple locations worldwide. These locations are composed of regions and zones. A region is a specific geographical location where you can host your resources. Each region has one or more zones; most regions have three or more zones. For example, the us-west1 region denotes a region on the west coast of the United States that has three zones: us-west1-a, us-west1-b, and us-west1-c.
+
+Resources that live in a zone, such as virtual machine instances or zonal persistent disks, are referred to as zonal resources. Other resources, like static external IP addresses, are regional. Regional resources can be used by any resources in that region, regardless of zone, while zonal resources can only be used by other resources in the same zone.
+
+For example, to attach a zonal persistent disk to an instance, both resources must be in the same zone. Similarly, if you want to assign a static IP address to an instance, the instance must be in the same region as the static IP address.
+    </string>
+    <string name="waterlevel">Water scarcity in India is due to both natural and human-made causes. The main factors that contribute to water issues include poor management of resources, lack of government attention, and man-made waste.
+    18 percent of the world population which resides in India only has access to 4 percent of usable water sources. Official data in the past decade depicts how annual per capita availability of water in the country has plummeted significantly, with 163 million Indians lacking access to safe drinking water.
+    The National Institution for Transforming India (NITI Ayog), Government of India has released report ëComposite Water Management Index í in June 2018 and listed Delhi and other 21 cities in India which would run out of groundwater by 2020
+    India is currently, under no such stress; however, it is expected to become a moderate water-scarce country by 2050.[5] India is a developing country that needs water for its increasing population and economy. It is being projected that water demand in India is going to be as high as 24% by 2025 and 74% by 2050.</string>
+</resources>
